@@ -1,0 +1,2 @@
+Improve error handling and messaging in FEN record parsing
+Combine parse castling side into one function
